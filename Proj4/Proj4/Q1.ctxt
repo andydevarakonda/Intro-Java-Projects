@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Q1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ readCount()
+comment3.params=
+comment3.target=void\ execute()
+comment4.params=count
+comment4.target=void\ writeCount(int)
+numComments=5
